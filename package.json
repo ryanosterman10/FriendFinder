@@ -1,0 +1,19 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "node.js and express.js powered compatibility-based app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanosterman10/FriendFinder.git"
+  },
+  "author": "Ryan Osterman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanosterman10/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/ryanosterman10/FriendFinder#readme"
+}
